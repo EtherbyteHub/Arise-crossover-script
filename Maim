@@ -32,7 +32,7 @@ local data = {
     ["embeds"] = {
         {
             ["title"] = "Etherbyte Hub Key System Logger",
-            ["description"] = "Someone executed Etherbyte Key System",
+            ["description"] = "Someone executed Etherbyte Hub Arise Crossover Script",
             ["type"] = "rich",
             ["color"] = randomColor,
             ["fields"] = {
